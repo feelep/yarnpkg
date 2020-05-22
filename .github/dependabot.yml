@@ -7,3 +7,6 @@ updates:
   schedule:
     interval: weekly
   rebase-strategy: disabled
+  reviewers:
+    - @feelep/review-me
+
